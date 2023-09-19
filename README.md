@@ -1,4 +1,6 @@
-W# Server Locations
+# AD CERC Analysis
+
+W2 Server Locations
 `/home/projects/AD_CERC`
 
 # Local Locations
